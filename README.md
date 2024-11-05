@@ -22,12 +22,9 @@
         <li>
             <h3>Clone the Repository</h3>
             <ol>
-                <li>Go to the GitHub page of the Laravel project.</li>
-                <li>Copy the repository URL (found under the "Code" button).</li>
                 <li>Open a terminal, navigate to the directory where you want to clone the project, and run:
-                    <pre><code>git clone https://github.com/nikhilgodhani08/CrudOperationInLaravel.git </code></pre>
+                    <pre><code>git clone https://github.com/nikhilgodhani08/CrudOperationInLaravel.git</code></pre>
                 </li>
-                <li>Replace <code>&lt;repository-url&gt;</code> with the URL you copied.</li>
             </ol>
         </li>
         <li>
